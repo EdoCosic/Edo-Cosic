@@ -7,11 +7,17 @@ About Me:
 
 💨 I’m currently working on web application development
 
-❕ I’m looking forward for my first Career Opportunity
+❕ I’m open and looking forward for my Career Opportunity
 
 ❔ How to reach me: edocosic0@gmail.com
 
+Certificates
 
+C++ Programming ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+Advanced C++ ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+Object-Oriented Programming (OOP)
 
 
 # 💻 Languages and Tools I Use:
